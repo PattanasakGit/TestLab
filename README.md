@@ -5,5 +5,6 @@ hello world
 ```
 name: Pattanasak
 study: CPE 
+อาหารที่ชอบ คือ ก๋วยเตียว
 ```
 <hr/>
